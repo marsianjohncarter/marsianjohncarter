@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h2>Profile Visitors:</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg)
