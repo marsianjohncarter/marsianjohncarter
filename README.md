@@ -5,13 +5,14 @@
   <img src="https://profile-counter.glitch.me/{username}/count.svg">
 
   <br>
+  <br>
+  <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula">
 </p>
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula">
 
 
 
