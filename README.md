@@ -3,12 +3,15 @@
 <p align="center">
 
   <img src="https://profile-counter.glitch.me/{username}/count.svg">
-  
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula">
 </p>
 
 <hr>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula">
 
 
 
