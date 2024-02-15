@@ -1,5 +1,6 @@
 <p align="center"> 
-![Visitor Count](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg) -->
+  <img src="https://profile-counter.glitch.me/{marsianjohncarter}/count.svg">
 </p>
 
 <hr>
