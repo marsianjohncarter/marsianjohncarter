@@ -42,15 +42,22 @@
 
 <br>
 <br>
+<br>
+<br>
 
 <p align="center">
-  Hey! I am John Carter, and I <em>love</em> to code. Recently I have been working on A project called <strong>Daily Video</strong>, primarily for my protfolio. It is a simple site where people can upload videos and then veiw them. It is built on a Flask backend and a js frontend. 
+  Hey! I am John Carter, and I <em>love</em> to code. Recently I have been working on a project called <strong>Daily Video</strong>, primarily for my protfolio. It is a simple site where people can upload videos and then veiw them. It is built on a Flask backend and a js frontend. 
 </p>
 
 <p align="center">
   Right now I am thinking of creating a react app that will. . . (it is still a secret!)
   
 </p>
+<br>
+<br>
+
+<h3 align="center">My stats:</h3>
+
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marsianjohncarter&theme=dracula" alt="GitHub Streak" /></a>
 <br>
