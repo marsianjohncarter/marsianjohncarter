@@ -1,5 +1,17 @@
+<p align="center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1C19A9DC&center=false&vCenter=true&random=false&width=510&height=55&lines=Hello!;My+name+is+John;I+am+a+Py%2FJs%2FReact+developer." alt="Typing SVG" /></a>
+</p>
 
-<div style="background-color: #fff; padding: 20px;">
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,codepen,bootstrap,babel,discord,flask,github,gmail,html,js,jquery,nodejs,postman,py,react,regex,replit,stackoverflow,sklearn,visualstudio,webpack," />
+  </a>
+</p>
+
+
+
   <p align="center">
 
   <img src="https://profile-counter.glitch.me/{username}/count.svg">
@@ -16,10 +28,8 @@
 
 
 
-<p align="center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1C19A9DC&center=false&vCenter=true&random=false&width=510&height=55&lines=Hello!;My+name+is+John;I+am+a+Py%2FJs%2FReact+developer." alt="Typing SVG" /></a>
-</p>
-</div>
+
+
 
 
 
