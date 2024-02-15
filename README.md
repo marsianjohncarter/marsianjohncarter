@@ -1,5 +1,4 @@
 <p align="center"> 
-  <p>Profile Visitors:</p>
   <img src="https://profile-counter.glitch.me/{marsianjohncarter}/count.svg">
 </p>
 
