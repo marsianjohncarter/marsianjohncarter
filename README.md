@@ -32,8 +32,7 @@
 
 
 
-
-
+<br>
 
 <p align="center" style="margin:40px;">
   <a href="https://skillicons.dev">
@@ -41,13 +40,25 @@
   </a>
 </p>
 
+<br>
+<br>
 
+<p align="center">
+  Hey! I am John Carter, and I <em>love</em> to code. Recently I have been working on A project called <strong>Daily Video</strong>, primarily for my protfolio. It is a simple site where people can upload videos and then veiw them. It is built on a Flask backend and a js frontend. 
+</p>
+
+<p align="center">
+  Right now I am thinking of creating a react app that will. . . (it is still a secret!)
+  
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marsianjohncarter&theme=dracula" alt="GitHub Streak" /></a>
+<br>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsianjohncarter&layout=compact&theme=dracula">
+</p>
 
   <p align="center">
-  <br>
-  <br>
-  <br>
-
 
   <img src="https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula">
     <br>
