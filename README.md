@@ -5,7 +5,7 @@
 
 
 <p align="center>
- <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Hello!;My+name+is+John.;I+am+a+Py/Js/React+developer&font=Fira%20Code&center=true&width=520&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;My+name+is+John.;I+am+a+Py/Js/React+developer&font=Fira%20Code&center=true&width=520&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
 </p>
 <!--
