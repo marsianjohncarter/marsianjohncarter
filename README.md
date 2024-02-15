@@ -8,7 +8,7 @@
 
 <hr>
 
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula)
 
 
 
