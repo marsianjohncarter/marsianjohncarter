@@ -1,3 +1,9 @@
+<p align="center"> 
+![Visitor Count](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg)
+</p>
+
+<hr>
+
 ### Hi there 👋
 
 <!--
@@ -19,4 +25,4 @@ Here are some ideas to get you started:
 
 <h2>Profile Visitors:</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg)
+
