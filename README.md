@@ -1,5 +1,5 @@
 
-<div style="background-color: #1a1a1a; padding: 20px;">
+<div style="background-color: #fff; padding: 20px;">
   <p align="center">
 
   <img src="https://profile-counter.glitch.me/{username}/count.svg">
