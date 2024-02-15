@@ -1,8 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/{marsianjohncarter}/count.svg">
-</p>
 
 
 
