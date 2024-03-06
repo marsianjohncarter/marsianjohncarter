@@ -51,10 +51,12 @@
 
 <p align="center">
   Some of my resume projects are:
-
-https://github.com/marsianjohncarter/github-react-example
+<p align="center">
+  https://github.com/marsianjohncarter/github-react-example
 
 https://github.com/marsianjohncarter/github-flask-example
+</p>
+
   
 </p>
 <br>
