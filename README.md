@@ -53,7 +53,8 @@
   Some of my resume projects are:
 <p align="center">
   https://github.com/marsianjohncarter/github-react-example
-
+</p>
+<p align="center">
   https://github.com/marsianjohncarter/github-flask-example
 </p>
 
