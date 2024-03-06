@@ -50,7 +50,11 @@
 </p>
 
 <p align="center">
-  Right now I am thinking of creating a react app that will. . . (it is still a secret!)
+  Some of my resume projects are:
+
+https://github.com/marsianjohncarter/github-react-example
+
+https://github.com/marsianjohncarter/github-flask-example
   
 </p>
 <br>
