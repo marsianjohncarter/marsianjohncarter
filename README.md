@@ -45,18 +45,7 @@
 <br>
 <br>
 
-<p align="center">
-  Hey! I <em>love</em> to code. Recently I have been working on a project called <strong>Daily Video</strong>, primarily for my protfolio. It is a simple site where people can upload videos and then veiw them. It is going to be built on a Flask backend and a js frontend. 
-</p>
 
-<p align="center">
-  Some of my resume projects are:
-<p align="center">
-  https://github.com/marsianjohncarter/github-react-example
-</p>
-<p align="center">
-  https://github.com/marsianjohncarter/github-flask-example
-</p>
 
   
 </p>
