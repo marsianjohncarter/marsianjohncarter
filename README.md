@@ -1,54 +1,59 @@
 <div id="header" align="center">
-<!-- <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116607327?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d"> -->
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116607327?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d">
 </div>
 
 <br>
 
 <div id="badges" align="center" style="margin:20px;">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://career.habr.com/incongnitohacker">
+    <img src="https://img.shields.io/badge/HABR Career-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@LabyrinthineStudios">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<p align="center">
+<div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=marsianjohncarter&style=flat-square&color=blue" alt=""/>
-
-  
   <br>
   <br>
   <br>
-  
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;My+name+is+John.;I +am+a+JS/PY/REACT+developer.;Though+these+are+my+main+likes;I+explore+other+areas+as+well.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=6258FFE9" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;My+name+is+John.;I+am+a+JS/PY/REACT+developer.;Though+these+are+my+main+likes;I+explore+other+areas+as+well.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=6258FFE9" alt="Example Usage - README Typing SVG">
 
-  
-</p>
-
-
-
+</div>
 <br>
-
-<p align="center" style="margin:40px;">
+<div align="center" style="margin:40px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,jquery,babel,react,webpack,flask,sklearn,regex,nodejs,git,postman,codepen,replit,github,stackoverflow,discord,gmail,visualstudio,ubuntu,debian&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,jquery,babel,react,webpack,flask,sklearn,regex,nodejs,git,postman,codepen,replit,github,stackoverflow,vscode,ubuntu,debian,linux,npm,pnpm,vite,tailwind&perline=8" />
   </a>
-</p>
+</div>
 
 <br>
 <br>
 <br>
 <br>
 
+<div align="center">
+  Hello! I am a Python/Javascript developer with an enthusiasm for reading. 
 
+  Here are the projects I have created:
 
+  [**OLHAR DEVICE**](https://github.com/marsianjohncarter/OlharDevice)
+  <br />
+  A application made to work with the Orange Pi Zero 2W to show all ads on certain API endpoint. This was created using Python and PYQT. 
+  <br />
   
-</p>
+  [**Media Team Web**](https://github.com/marsianjohncarter/Media-Team-Web-Firebase)
+  <br />
+  A React app built with vite and hosted on firebase. This web applictaion also uses the popular library tailwind.css.
+
+  [**Github React Example**](https://github.com/marsianjohncarter/github-react-example)
+  <br />
+  This was the very first React app I had created. This website also uses vite and tailwind.
+</div>
+
+
 <br>
 <br>
 
