@@ -25,7 +25,7 @@ const NavBar = () => {
         <nav
             className={`${
                 isVisible ? "translate-y-0" : "-translate-y-full"
-            } bg-transparent backdrop-blur-sm border-b border-gray-300 py-4 fixed w-full top-0 transition-transform duration-300`}
+            } z-50 bg-transparent backdrop-blur-sm border-b border-gray-300 py-4 fixed w-full top-0 transition-transform duration-300`}
         >
             <ul className="flex justify-center">
                 {navLinks.map((link, index) => (
@@ -33,7 +33,7 @@ const NavBar = () => {
                         <strong>
                             <a
                                 href="#"
-                                className="text-neutral-300 hover:text-red-300"
+                                className="link text-neutral-300 hover:text-red-500 transition-colors duration-300 ease-in-out"
                             >
                                 {link}
                             </a>

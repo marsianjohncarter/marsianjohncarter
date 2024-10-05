@@ -1,7 +1,8 @@
 import { useState } from "react";
 import NavBar from "./components/navbar/navbar.jsx";
 import TopSection from "./components/topSection/topSection.jsx";
-
+import Footer from "./components/footer/footer.jsx";
+import Skills from "./components/skills/skills.jsx";
 
 import "./App.css";
 
@@ -12,7 +13,8 @@ function App() {
         <>
             <NavBar />
             <TopSection />
-            <div className="h-[5000px] w-full bg-black"></div>
+            <Skills />
+            <Footer />
         </>
     );
 }
