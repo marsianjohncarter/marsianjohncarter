@@ -10,7 +10,7 @@ const TopSection = () => {
                     </h1>
                     <p className="text-lg font-normal text-gray-400 mb-6">
                         My name is john and I'm a Frontend/Flask Backend/Machine
-                        Learning/ developer
+                        Learning developer
                     </p>
 
                     <Link
@@ -68,7 +68,7 @@ const TopSection = () => {
                             decisions.
                         </p>
                         <Link
-                            to="/projects"
+                            to="/marsianjohncarter/projects"
                             className="text-blue-500 hover:underline font-medium text-lg inline-flex items-center"
                         >
                             Projects
