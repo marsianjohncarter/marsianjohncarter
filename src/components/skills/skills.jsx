@@ -140,7 +140,14 @@ const skillsDict = {
 const Skills = () => {
     return (
         <>
-            <h1 id="skills" class="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center underline underline-offset-3 decoration-8 decoration-red-500 bg-clip-border p-6 bg-gradient-to-r from-stone-700 via-red-500 to-red-400 border border-red-500 rounded-lg hover:shadow-lg hover:shadow-red-400 transition-all duration-300 py-8 px-4 mx-auto max-w-screen-xl lg:py-16">Skills</h1>
+            <div className="px-4 mx-auto max-w-screen-xl">
+                <h1
+                    id="skills"
+                    className="mt-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border p-6 bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all duration-300 ease-linear py-8 px-4 mx-auto max-w-screen-xl lg:py-16"
+                >
+                    Skills
+                </h1>
+            </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
                 <View skills={skillsDict} />
@@ -148,7 +155,6 @@ const Skills = () => {
         </>
     );
 };
-
 
 const View = ({ skills }) => {
     return (
@@ -163,11 +169,8 @@ const View = ({ skills }) => {
                             {key}
                         </h5>
                     </div>
-                    <div class="flow-root">
-                        <ul
-                            role="list"
-                            className="divide-y divide-gray-700"
-                        >
+                    <div className="flow-root">
+                        <ul role="list" className="divide-y divide-gray-700">
                             {skills[key].map((skill, index) => (
                                 <li key={index} className="py-3 sm:py-4">
                                     <div className="flex items-center ">
@@ -184,8 +187,23 @@ const View = ({ skills }) => {
                                             </p>
                                             <div className="w-full  rounded-full h-2.5 mb-4 mt-4 bg-gray-700">
                                                 <div
-                                                    className={"h-2.5 rounded-full bg-green-500 " + (+skill.percentage > 85 ? "bg-green-600 " : +skill.percentage > 60 && +skill.percentage < 70 ? "bg-yellow-200 " : +skill.percentage > 50 ? "bg-yellow-500 " : "bg-red-500 ")}
-                                                    style={{ width: `${skill.percentage}%` }}
+                                                    className={
+                                                        "h-2.5 rounded-full bg-green-500 " +
+                                                        (+skill.percentage > 85
+                                                            ? "bg-green-600 "
+                                                            : +skill.percentage >
+                                                                  60 &&
+                                                              +skill.percentage <
+                                                                  70
+                                                            ? "bg-yellow-200 "
+                                                            : +skill.percentage >
+                                                              50
+                                                            ? "bg-yellow-500 "
+                                                            : "bg-red-500 ")
+                                                    }
+                                                    style={{
+                                                        width: `${skill.percentage}%`,
+                                                    }}
                                                 />
                                             </div>
                                             <p className="text-sm truncate text-gray-400">

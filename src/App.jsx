@@ -1,19 +1,29 @@
-import { useState } from "react";
+import { lazy, Suspense } from "react";
+import { Route, Routes } from "react-router-dom";
 import NavBar from "./components/navbar/navbar.jsx";
-import TopSection from "./components/topSection/topSection.jsx";
 import Footer from "./components/footer/footer.jsx";
-import Skills from "./components/skills/skills.jsx";
+
+const Home = lazy(() => import("./pages/Home"));
+const Page404 = lazy(() => import("./pages/404"));
+const ProjectSection = lazy(() => import("./pages/projects"));
+const ContactCard = lazy(() => import("./pages/Contact"));
+import Spinner from "./components/spinner/spinner";
 
 import "./App.css";
 
 function App() {
-    const [count, setCount] = useState(0);
-
     return (
         <>
             <NavBar />
-            <TopSection />
-            <Skills />
+
+            <Suspense fallback={<Spinner />}>
+                <Routes location={location}>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/projects" element={<ProjectSection />} />
+                    <Route path="*" element={<Page404 />} />
+                    <Route path="/contact" element={<ContactCard />} />
+                </Routes>
+            </Suspense>
             <Footer />
         </>
     );
