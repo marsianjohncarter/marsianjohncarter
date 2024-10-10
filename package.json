@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "portfolio-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,5 +30,6 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.1"
-  }
+  },
+  "packageManager": "yarn@4.5.0+sha512.837566d24eec14ec0f5f1411adb544e892b3454255e61fdef8fd05f3429480102806bac7446bc9daff3896b01ae4b62d00096c7e989f1596f2af10b927532f39"
 }

@@ -34,8 +34,9 @@ const TopSection = () => {
                             />
                         </svg>
                     </Link>
+ 
                 </div>
-                <div className="grid md:grid-cols-2 gap-8">
+                <div className="grid md:grid-cols-2 gap-8 h-96">
                     <div className="bg-gray-800 border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all ease-in-out duration-300 rounded-lg p-8 md:p-12">
                         <a
                             href="#"
@@ -67,10 +68,10 @@ const TopSection = () => {
                             decisions.
                         </p>
                         <Link
-                            to="/contact"
+                            to="/projects"
                             className="text-blue-500 hover:underline font-medium text-lg inline-flex items-center"
                         >
-                            Contact
+                            Projects
                             <svg
                                 className="w-3.5 h-3.5 ms-2 rtl:rotate-180"
                                 aria-hidden="true"
@@ -90,7 +91,7 @@ const TopSection = () => {
                     </div>
                     <div className="bg-gray-800  border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all ease-in-out duration-300 rounded-lg p-8 md:p-12">
                         <Link
-                            href="#"
+                            to="https://github.com/marsianjohncarter"
                             className="text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md bg-gray-700 text-white mb-2"
                         >
                             <svg
@@ -115,8 +116,8 @@ const TopSection = () => {
                             work. I possess a strong command of programming
                             languages, frameworks, and tools.
                         </p>
-                        <a
-                            href="#"
+                        <Link
+                            to="https://github.com/marsianjohncarter"
                             className="text-blue-500 hover:underline font-medium text-lg inline-flex items-center"
                         >
                             Read more
@@ -135,7 +136,7 @@ const TopSection = () => {
                                     d="M1 5h12m0 0L9 1m4 4L9 9"
                                 />
                             </svg>
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>
