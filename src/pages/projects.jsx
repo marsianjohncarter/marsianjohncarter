@@ -13,7 +13,7 @@ const projects = [
             },
             { name: "PyQt", icon: "https://img.icons8.com/ios/50/qt.png" },
         ],
-        imageSrc: "/Not Available.png",
+        imageSrc: "/marsianjohncarter/Not Available.png",
     },
     {
         id: 2,
@@ -37,7 +37,7 @@ const projects = [
             { name: "PNPM", icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAADI0lEQVR4nO3YIY5VWRSG0aNIMBhEJ8yBYBgACskAWuB7Fig044B6pBOStjAsXiF2W/Io9wj3fFXrS35/du5Sdy3pyObjenQ+rSnv+2l9u7zr9vN6e/S7rt3tzfrn8q7zzfpy9Luu3XxeTwEMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgeBMC11vp+s76Wd3uzPlx+qB+f1uuj33X1TuvNLwBP6/3h77py8996cnmXJEmSlG9m/pqZV/E9u7zr/O96/uPTelXeARz+fDPzdvo9jN8w97EBcNsB2AnAagPgtgOwE4DVBsBtB2AnAKsNgNsOwE4AVhsAtx2AnQCsNgBuOwA7AVhtANx2AHYCsNoAuO0A7ARgtQFw2wHYCcBqA+C2A7ATgNUGwG0HYCcAqw2A2w7ATgBWGwC3HYCdAKw2AG47ADsBWG0A3HYAdgKw2gC47QDsBGC1AXDbAdgJwGoD4LYDsBOA1QbAbQdgJwCrDYDbDsBOAFYbALcdgJ0ArDYAbjsAOwFYbQDcdgB2ArDaALjtHgrAFzPzLr6Xl3edT+vv82m9K28+rsdHmJAkSdJGzczX+D7ccdPrDd517d7ccdf7Dd517Z78fNCj6fftjg91L3/DzMyXox/1G3r680EA7huAkQBsBWAkACMB2ArASABGArAVgJEAjARgKwAjARgJwFYARgIwEoCtAIwEYCQAWwEYCcBIALYCMBKAkQBsBWAkACMB2ArASABGArAVgJEAjARgKwAjARgJwFYARgIwEoCtAIwEYCQAWwEYCcBIALYCMBKAkQBsBWAkACMB2ArASABGArAVgJEAjARgKwAjARgJwFYARgIwEoCtAIwEYCQAWwEY6f4DlCRJR/Q/zoV3IvK4wkkAAAAASUVORK5CYII=" },
             {name: "Github", icon: "https://img.icons8.com/fluency/48/github.png" },
         ],
-        imageSrc: "/Portfolio Project.png",
+        imageSrc: "/marsianjohncarter/Portfolio Project.png",
     },
     {
         id: 4,
@@ -56,7 +56,7 @@ const projects = [
             { name: "Firebase", icon: "https://img.icons8.com/color/48/firebase.png" },
             { name: "PNPM", icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAADI0lEQVR4nO3YIY5VWRSG0aNIMBhEJ8yBYBgACskAWuB7Fig044B6pBOStjAsXiF2W/Io9wj3fFXrS35/du5Sdy3pyObjenQ+rSnv+2l9u7zr9vN6e/S7rt3tzfrn8q7zzfpy9Luu3XxeTwEMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgAjAzA1gCMDMDIAGwNwMgeBMC11vp+s76Wd3uzPlx+qB+f1uuj33X1TuvNLwBP6/3h77py8996cnmXJEmSlG9m/pqZV/E9u7zr/O96/uPTelXeARz+fDPzdvo9jN8w97EBcNsB2AnAagPgtgOwE4DVBsBtB2AnAKsNgNsOwE4AVhsAtx2AnQCsNgBuOwA7AVhtANx2AHYCsNoAuO0A7ARgtQFw2wHYCcBqA+C2A7ATgNUGwG0HYCcAqw2A2w7ATgBWGwC3HYCdAKw2AG47ADsBWG0A3HYAdgKw2gC47QDsBGC1AXDbAdgJwGoD4LYDsBOA1QbAbQdgJwCrDYDbDsBOAFYbALcdgJ0ArDYAbjsAOwFYbQDcdgB2ArDaALjtHgrAFzPzLr6Xl3edT+vv82m9K28+rsdHmJAkSdJGzczX+D7ccdPrDd517d7ccdf7Dd517Z78fNCj6fftjg91L3/DzMyXox/1G3r680EA7huAkQBsBWAkACMB2ArASABGArAVgJEAjARgKwAjARgJwFYARgIwEoCtAIwEYCQAWwEYCcBIALYCMBKAkQBsBWAkACMB2ArASABGArAVgJEAjARgKwAjARgJwFYARgIwEoCtAIwEYCQAWwEYCcBIALYCMBKAkQBsBWAkACMB2ArASABGArAVgJEAjARgKwAjARgJwFYARgIwEoCtAIwEYCQAWwEY6f4DlCRJR/Q/zoV3IvK4wkkAAAAASUVORK5CYII=" },
         ],
-        imageSrc: "/GABC app.png",
+        imageSrc: "/marsianjohncarter/GABC app.png",
     },
     {
         id: 3,
@@ -126,47 +126,6 @@ const ProjectCard = ({
 };
 
 function ProjectSection() {
-    const olharDeviceTech = [
-        {
-            name: "HTML5",
-            icon: "https://cdn-icons-png.flaticon.com/512/174/174854.png",
-        },
-        {
-            name: "CSS3",
-            icon: "https://cdn-icons-png.flaticon.com/512/732/732190.png",
-        },
-        {
-            name: "JavaScript",
-            icon: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
-        },
-        {
-            name: "Tailwind",
-            icon: "https://cdn-icons-png.flaticon.com/512/732/732190.png",
-        },
-        {
-            name: "TypeScript",
-            icon: "https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
-        },
-    ];
-
-    const agencyTechnologies = [
-        {
-            name: "WordPress",
-            icon: "https://cdn-icons-png.flaticon.com/512/174/174881.png",
-        },
-        {
-            name: "HTML5",
-            icon: "https://cdn-icons-png.flaticon.com/512/174/174854.png",
-        },
-        {
-            name: "CSS3",
-            icon: "https://cdn-icons-png.flaticon.com/512/732/732190.png",
-        },
-        {
-            name: "WooCommerce",
-            icon: "https://cdn-icons-png.flaticon.com/512/2920/2920103.png",
-        },
-    ];
 
     return (
         <>

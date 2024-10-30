@@ -4,31 +4,37 @@ const skillsDict = {
             name: "Javascript",
             level: "Advanced",
             percentage: "98",
+            link: "https://img.icons8.com/fluency/48/javascript.png",
         },
         {
             name: "Python",
             level: "Advanced",
             percentage: "98",
+            link: "https://img.icons8.com/color/48/python--v1.png",
         },
         {
             name: "CSS",
             level: "Proficient",
             percentage: "95",
+            link: "https://img.icons8.com/color/48/css3.png",
         },
         {
             name: "HTML",
             level: "Advanced",
             percentage: "100",
+            link: "https://img.icons8.com/color/48/html-5--v1.png",
         },
         {
             name: "SASS",
             level: "Familiar",
             percentage: "70",
+            link: "https://img.icons8.com/color/48/sass-avatar.png",
         },
         {
             name: "Php",
             level: "Not worth noticing",
             percentage: "5",
+            link: "https://img.icons8.com/fluency/48/php.png",
         },
     ],
 
@@ -37,31 +43,37 @@ const skillsDict = {
             name: "Git",
             level: "Advanced",
             percentage: "99",
+            link: "https://img.icons8.com/color/48/git.png",
         },
         {
             name: "Github",
             level: "Advanced",
             percentage: "99",
+            link: "https://img.icons8.com/fluency/48/github.png",
         },
         {
             name: "Vite",
             level: "Advanced",
             percentage: "100",
+            link: "https://img.icons8.com/fluency/48/vite.png",
         },
         {
             name: "Firebase",
             level: "Proficient",
             percentage: "90",
+            link: "https://img.icons8.com/color/48/firebase.png",
         },
         {
             name: "Render",
             level: "Proficient",
             percentage: "95",
+            link: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.uBXapYnVomXOvJ8bFROhPgAAAA%26pid%3DApi&f=1&ipt=5707ea7d4e88b1cf1d5e14384486e1c3794164708b229f18c46c39bf6d6d1c90&ipo=images",
         },
         {
             name: "MongoDB",
             level: "Weak",
             percentage: "20",
+            link: "https://img.icons8.com/color/48/mongodb.png",
         },
     ],
 
@@ -70,31 +82,37 @@ const skillsDict = {
             name: "React",
             level: "Advanced",
             percentage: "98",
+            link: "https://img.icons8.com/color/48/react-native.png",
         },
         {
             name: "Tailwind",
             level: "Advanced",
             percentage: "100",
+            link: "https://img.icons8.com/fluency/48/tailwind_css.png",
         },
         {
             name: "Bootstrap",
             level: "Advanced",
             percentage: "100",
+            link: "https://img.icons8.com/color/48/bootstrap.png",
         },
         {
             name: "Flask",
             level: "Advanced",
             percentage: "99",
+            link: "https://img.icons8.com/fluency/48/flask.png",
         },
         {
             name: "Numpy",
             level: "Advanced",
             percentage: "97",
+            link: "https://img.icons8.com/color/48/numpy.png",
         },
         {
             name: "Pandas",
             level: "Advanced",
             percentage: "99",
+            link: "https://img.icons8.com/color/48/pandas.png",
         },
     ],
 
@@ -103,47 +121,53 @@ const skillsDict = {
             name: "Machine Learning",
             level: "Advanced",
             percentage: "98",
+            link: "https://img.icons8.com/pulsar-color/48/machine-learning.png",
         },
         {
             name: "Deep Learning",
             level: "Advanced",
             percentage: "98",
+            link: "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-deep-learning-data-analytics-flaticons-flat-flat-icons.png",
         },
         {
             name: "Frontend (react + tailwind)",
             level: "proficient",
             percentage: "95",
+            link: "https://img.icons8.com/nolan/64/code--v2.png",
         },
         {
             name: "Backend (python + flask)",
             level: "proficient",
             percentage: "95",
+            link: "https://img.icons8.com/nolan/64/code--v1.png",
         },
         {
             name: "Linux",
             level: "Advanced",
             percentage: "97",
+            link: "https://img.icons8.com/color/48/linux.png",
         },
         {
             name: "Windows",
             level: "Advanced",
             percentage: "96",
+            link: "https://img.icons8.com/color/48/windows.png",
         },
         {
             name: "Vscode",
             level: "Advanced",
             percentage: "98",
+            link: "https://img.icons8.com/color/48/visual-studio-code-2019.png",
         },
     ],
 };
-
 const Skills = () => {
     return (
         <>
-            <div className="px-4 mx-auto max-w-screen-xl">
+            <div className="px-4 mx-auto max-w-screen-xl pt-10 sm:pt-0">
                 <h1
                     id="skills"
-                    className="mt-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border p-6 bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all duration-300 ease-linear py-8 px-4 mx-auto max-w-screen-xl lg:py-16"
+                    className="mt-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border p-6 bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all duration-300 ease-linear"
                 >
                     Skills
                 </h1>
@@ -177,7 +201,7 @@ const View = ({ skills }) => {
                                         <div className="flex-shrink-0">
                                             <img
                                                 className="w-8 h-8 rounded-full"
-                                                src="/docs/images/people/profile-picture-5.jpg"
+                                                src={skill.link}
                                                 alt="Thomas image"
                                             />
                                         </div>
