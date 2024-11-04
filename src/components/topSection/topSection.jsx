@@ -1,5 +1,15 @@
 import { Link } from "react-router-dom";
 
+function scrollToSkills() {
+    const skillsSection = document.getElementById("skills");
+    if (skillsSection) {
+        window.scrollTo({
+            top: skillsSection.offsetTop - 20,
+            behavior: "smooth",
+        });
+    }
+}
+
 const TopSection = () => {
     return (
         <section className="bg-gray-900 pt-10 pb-72 sm:pb-64 md:pb-0 lg:pb-0 xl:pb-0">
@@ -13,8 +23,8 @@ const TopSection = () => {
                         Learning developer
                     </p>
 
-                    <Link
-                        href="#skills"
+                    <button
+                        onClick={scrollToSkills}
                         className="inline-flex justify-center items-center transition-all py-2.5 px-5 text-base font-medium text-center text-white rounded-lg bg-red-700 hover:bg-red-800 focus:ring-4  dark:focus:ring-red-900"
                     >
                         Jump to my skills
@@ -33,8 +43,7 @@ const TopSection = () => {
                                 d="M1 5h12m0 0L9 1m4 4L9 9"
                             />
                         </svg>
-                    </Link>
- 
+                    </button>
                 </div>
                 <div className="grid md:grid-cols-2 gap-8 h-96">
                     <div className="bg-gray-800 border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all ease-in-out duration-300 rounded-lg p-8 md:p-12">
