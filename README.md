@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116607327?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d">
-</div>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116607327&w=200&h=200&fit=cover&mask=circle&maxage=7d">
+</div> 
 
 <br>
 <div align="center">
