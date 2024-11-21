@@ -12,7 +12,7 @@ function scrollToSkills() {
 
 const TopSection = () => {
     return (
-        <section className="bg-gray-900 pt-10 pb-72 sm:pb-64 md:pb-0 lg:pb-0 xl:pb-0">
+        <section className="bg-gray-900 pt-10 pb-72 sm:pb-64 md:pb-0 lg:pb-0 xl:pb-0 min-h-screen">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
                 <div className="bg-gray-800 border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all ease-in-out duration-300 rounded-lg p-8 md:p-12 mb-8">
                     <h1 className="text-white text-3xl md:text-5xl font-extrabold mb-2">
