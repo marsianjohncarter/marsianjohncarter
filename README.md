@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116607327?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d">
-</div>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116607327&w=200&h=200&fit=cover&mask=circle&maxage=7d">
+</div> 
 
 <br>
 <div align="center">
@@ -30,7 +30,7 @@
 <br>
 <div align="center" style="margin:40px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,jquery,babel,react,webpack,flask,sklearn,regex,nodejs,git,postman,codepen,replit,github,stackoverflow,vscode,ubuntu,debian,linux,npm,pnpm,vite,tailwind,tensorflow&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,jquery,babel,react,webpack,flask,sklearn,regex,nodejs,git,postman,codepen,replit,github,stackoverflow,vscode,ubuntu,linux,npm,pnpm,vite,tailwind,tensorflow&perline=8" />
 
   </a>
 </div>
