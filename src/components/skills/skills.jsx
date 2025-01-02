@@ -167,7 +167,7 @@ const Skills = () => {
             <div className="px-4 mx-auto max-w-screen-xl pt-10 sm:pt-0">
                 <h1
                     id="skills"
-                    className="mt-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border p-6 bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all duration-300 ease-linear"
+                    className="mt-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border p-6 bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg shadow-lg hover:shadow-slate-700/50 transition-all duration-300 ease-linear"
                 >
                     Skills
                 </h1>
@@ -186,7 +186,7 @@ const View = ({ skills }) => {
             {Object.keys(skills).map((key, index) => (
                 <div
                     key={index}
-                    className="w-full max-w-md p-4 rounded-lg sm:p-8 bg-gray-800 border-red-200 border hover:border-red-300 shadow-xl hover:shadow-red-400 transition-all ease-in-out duration-300"
+                    className="w-full sm:text-center max-w-md p-4 rounded-lg sm:p-8 bg-gray-800 shadow hover:shadow-slate-700 transition-all ease-in-out duration-300 sm:mx-auto"
                 >
                     <div className="flex items-center justify-between mb-4">
                         <h5 className="text-xl font-bold leading-none text-white">

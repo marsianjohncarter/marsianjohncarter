@@ -129,10 +129,10 @@ function ProjectSection() {
 
     return (
         <>
-            <div className="pt-20 px-4 mx-auto max-w-screen-xl lg:py-16">
+            <div className="pt-32 px-4 mx-auto max-w-screen-xl lg:py-16">
                 <h1
                     id="projects"
-                    className="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border p-6 bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg border-red-300 border hover:border-red-400 shadow-lg hover:shadow-red-400/40 transition-all duration-300 ease-linear py-8 px-4 mx-auto max-w-screen-xl lg:py-16"
+                    className="mb-4 mt-12 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-white text-center bg-clip-border bg-gradient-to-r from-slate-700 via-slate-800 to-slate-700 rounded-lg   transition-all duration-300 ease-linear py-8 px-4 mx-auto max-w-screen-xl lg:py-16"
                 >
                     Projects
                 </h1>
