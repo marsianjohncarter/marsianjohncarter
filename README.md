@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-  <em>-> [https://marsianjohncarter.github.io/marsianjohncarter/](https://marsianjohncarter.github.io/) <-</em>
+  <em>-> https://marsianjohncarter.github.io/ <-</em>
 </div>
 
 <br>
