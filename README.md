@@ -41,11 +41,13 @@ Here are the projects I have created:
 
 ### My stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marsianjohncarter&theme=dracula)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marsianjohncarter&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marsianjohncarter&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marsianjohncarter&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marsianjohncarter&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=marsianjohncarter&theme=react&hide_border=true)
+
+
 
 ![Profile Counter](https://profile-counter.glitch.me/{marsianjohncarter}/count.svg)
 
