@@ -28,11 +28,16 @@ Hello! I am a Python/Javascript developer with an enthusiasm for reading.
 Here are the projects I have created:
 
 | **Project Name**                                            | **Skills Used**                                                                 |
-|-------------------------------------------------------------|---------------------------------------------------------------------------------|
+|------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [**OLHAR DEVICE**](https://github.com/marsianjohncarter/OlharDevice) | Python, PYQT                                                                   |
 | [**Media Team Web**](https://github.com/marsianjohncarter/Media-Team-Web-Firebase) | React, Vite, Firebase, Tailwind CSS                                           |
 | [**Github React Example**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind CSS                                                     |
-
+| [**Olhar Device**](https://olhar.media/) | Python, PyQt |
+| [**Portfolio website**](https://marsianjohncarter.github.io) | React, Vite, Tailwind, PNPM, GitHub |
+| [**Media Team Web App**](https://gabc-media-team.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
+| [**React + Vite + Tailwind website**](https://github.com/marsianjohncarter/github-react-example) | React, Vite, Tailwind |
+| [**Nutrify Website**](https://nutrify-preview.web.app/) | React, Vite, Tailwind, Firebase, PNPM |
+| [**Chess Website**](https://chess-website-completed.onrender.com/) | JavaScript, Socket.IO, Bootstrap |
 <br>
 
 ### My stats:
