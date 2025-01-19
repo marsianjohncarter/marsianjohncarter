@@ -14,8 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marsianjohncarter&style=flat-square&color=blue)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;My+name+is+John.;I+am+a+JS/PY/REACT+developer.;Though+these+are+my+main+likes;I+explore+other+areas+as+well.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=6258FFE9)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=6258FFE9&width=435&lines=Greetings!;Welcome+to+my+profile!;Fell+free+to+explore+my+projects+and+repositries!;To+get+to+the+point%2C+make+yourself+at+home.)](https://git.io/typing-svg)
 
 <br>
 
